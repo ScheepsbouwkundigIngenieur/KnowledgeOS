@@ -2,50 +2,41 @@
 
 ## Current Milestone
 
-Implementatie V1
-
-(De ontwerpfase is afgesloten op 20-07-2026. De Blueprint is bevroren.)
+KnowledgeOS Architecture Blueprint
 
 ---
 
 ## Current Goal
 
-Fase 0 van het Implementation Master Plan:
+Define the architectural decisions that are expensive to change later.
 
-Bouw en draai `scan_archive.py`.
-
----
-
-## De éne volgende stap
-
-Open een chat met de AI-sparringpartner en zeg:
-
-> "Fase 0: bouw scan_archive.py met mij."
-
-Benodigd: Python geïnstalleerd + het pad naar de NAS-archiefmap.
+Do NOT optimize implementation details yet.
 
 ---
 
 ## Current Focus
 
-Werkende code over echte bestanden.
+Finish the Blueprint.
 
-Al het andere is secundair.
+Everything else is secondary.
 
 ---
 
 ## What We Are NOT Doing
 
-- Nieuwe documenten schrijven (Golden Rule 14)
-- De Blueprint heropenen zonder nieuw feit
-- UI bouwen
-- Nieuwe tools of systemen opzetten
-- Scope uitbreiden
+- Building the application
+- Designing the UI
+- Optimizing code
+- Creating databases
+- Building APIs
+- Expanding scope
+
+Those activities belong to later milestones.
 
 ---
 
 ## Next Milestone
 
-Fase 1: Engine-basis (conventiemodule + validator)
+Module 1:
 
-Pas starten nadat Fase 0 gereed is volgens de oplevercriteria in het Master Plan.
+Review Workbench
